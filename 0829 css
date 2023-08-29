@@ -1,0 +1,15 @@
+h1 {
+    font-family: '함초롬바탕';
+}
+
+p {
+    font-family: 'georgia';
+}
+
+#a {
+    color: blue;
+}
+
+.아무거나 {
+    color: red;
+}
