@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>css 두번째 시간</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>CSS 두번째 시간</h1>
+
+    <div class="didiv">
+        <h2>ul-li 태그</h2>
+        <ul>
+            <!-- ul-li*3 -->
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JAVASCRIPT</li>
+        </ul>
+
+    </div>
+
+    <div class="didiv">
+        <h2>이미지 태그</h2>
+        <img src="mi.jpg" alt="미하일">
+
+
+    </div>
+
+    <div class="didiv">
+        <h2>문단 태그</h2>
+        <h3>Lorem Ipsum</h3>
+        <p>
+        
+        Lorem ipsum dolor sit amet consectetur,
+        adipisicing elit. Distinctio in maxime,
+        natus exercitationem facilis
+        odio id sunt aspernatur, expedita suscipit error
+        soluta minus explicabo quasi velit illum nobis inventore
+        harum.
+        </p>
+    </div>
+
+
+</body>
+
+</html>
