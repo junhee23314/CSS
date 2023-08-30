@@ -1,0 +1,23 @@
+* {
+    font-family: "함초롬바탕";
+    background-color: cadetblue;
+}
+
+
+
+
+img {
+    width: 300px;
+}
+
+p {
+    width: 300px;
+}
+
+.didiv>h2 {
+    background-color: cyan;
+}
+
+.didiv h2 {
+    background-color: blueviolet;
+}
