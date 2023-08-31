@@ -1,0 +1,38 @@
+* {
+    font-family: "함초롬바탕";
+}
+
+
+.품종 {
+    color: blue;
+}
+
+[class="품종"] {
+    color: red;
+
+}
+
+a {
+    display: block;
+    width: 300px;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+
+a:link {
+    font-size: 2rem;
+}
+
+a:visited {
+    color: grey;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
+
+.cat:first-child{
+    background-color: blueviolet;
+}
