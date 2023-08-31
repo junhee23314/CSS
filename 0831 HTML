@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <img src="https://www.adobe.com/content/dam/cc/us/en/creative-cloud/photography/discover/landscape-photography/CODERED_B1_landscape_P2d_714x348.jpg.img.jpg"
+        alt="ZZ">
+    <h1>멋쟁이 풍경</h1>
+
+    <div>
+        <h2 class="품종">고양이 품종</h2>
+        <ul class="cat">
+            <li><a href="https://namu.wiki/w/%ED%8E%98%EB%A5%B4%EC%8B%9C%EC%95%88">페르시안</a></li>
+            <li><a
+                    href="https://namu.wiki/w/%EB%8F%84%EB%A9%94%EC%8A%A4%ED%8B%B1%20%EC%88%8F%ED%97%A4%EC%96%B4">코리안숏혜어</a>
+            </li>
+            <li><a href="https://namu.wiki/w/%EC%8A%A4%ED%95%91%ED%81%AC%EC%8A%A4(%EA%B3%A0%EC%96%91%EC%9D%B4)">스핑크스</a>
+            </li>
+            <li><a href="https://namu.wiki/w/%EB%9F%AC%EC%8B%9C%EC%95%88%20%EB%B8%94%EB%A3%A8">러시안블루</a></li>
+            <li><a href="https://namu.wiki/w/%EC%A7%AC%ED%83%80%EC%9D%B4%EA%B1%B0">짬타이거</a></li>
+        </ul>
+    </div>
+
+    <div>
+        <h2 class>Lorem Ipsum</h2>
+        <p>
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+            Iure, recusandae, similique pariatur dolorem
+            explicabo quod veritatis distinctio, dicta repellendus aut accusamus
+            reprehenderit rerum voluptates commodi
+            enim laboriosam dolorum quae rem?
+        </p>
+    </div>
+
+
+
+
+</body>
+</html>
