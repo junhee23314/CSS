@@ -1,0 +1,43 @@
+* {
+    font-family: "함초롬바탕", "Georgia";
+}
+
+.fontFamily {
+
+    color: bisque;
+    font-weight: bold;
+}
+
+.fontFamily span {
+    color: red;
+    font-size: 2em;
+    font-style: italic;
+
+}
+
+
+.textAlignLeft {
+    text-align: left;
+    height: 100px;
+    line-height: 100px;
+    background-color: #33333366;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+.textAlignCenter {
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+    background-color: #33333344;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.textAlignRight {
+    text-align: right;
+    height: 100px;
+    line-height: 100px;
+    background-color: #33333322;
+    border: 2px solid black;
+}
