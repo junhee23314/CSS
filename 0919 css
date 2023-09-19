@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.position div {
+    width: 100px;
+    height: 100px;
+
+}
+
+.float div {
+    width: 100px;
+    height: 100px;
+}
+
+.display div {
+    width: 100px;
+    height: 100px;
+
+}
+
+.a {
+    background-color: #156e1c88;
+}
+
+.b {
+    background-color: #156e1c66;
+}
+
+.c {
+    background-color: #156e1c44;
+}
+
+/* position 주기 시작 */
+.position .a {
+    position: absolute;
+    left: 0;
+}
+
+.position .b {
+    position: absolute;
+    left: 100px;
+}
+
+.position .c {
+    position: absolute;
+    left: 200px;
+}
+
+.position {
+    position: relative;
+    height: 100px;
+}
+
+
+/* position 주기 끝 */
+
+/* float 주기 시작 */
+.float .a {
+    float: left;
+}
+
+.float .b {
+    float: left;
+}
+
+.float .c {
+    float: left;
+}
+
+.float {
+    height: 100px;
+}
+
+/* float 주기 끝 */
+
+/* display 주기 시작 */
+.display .a {
+    display: inline-block;
+
+}
+
+.display .b {
+    display: inline-block;
+}
+
+.display .c {
+    display: inline-block;
+}
+
+/* display 주기 끝 */
